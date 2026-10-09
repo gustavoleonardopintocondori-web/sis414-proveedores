@@ -4,6 +4,12 @@ Spring Boot, Spring Data JPA, PostgreSQL y Swagger. Java 21.
 
 Proveedor: id (Long, generado), nombre (String), empresa (String), telefono (String), email (String).
 
+## Enlaces
+
+- Repositorio: https://github.com/gustavoleonardopintocondori-web/sis414-proveedores
+- Swagger: https://sis414-proveedores.onrender.com/swagger-ui/index.html
+- API: https://sis414-proveedores.onrender.com/api/proveedores
+
 ## Endpoints
 
 | Metodo | Ruta | Resultado |
